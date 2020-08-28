@@ -1,0 +1,8 @@
+Aluno1:
+	Nome: Tiago Pinto
+	Numero: 21602575
+	mail: badoch97@gmail.com
+Aluno2:
+	Nome: Diogo Sousa
+	Numero: 21601893
+	mail: becadicasousa@gmail.com
